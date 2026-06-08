@@ -1,4 +1,4 @@
-<img width="1522" height="853" alt="image" src="https://github.com/user-attachments/assets/c0ba3a72-9ac5-4efd-8d98-a849d976f9d7" /># Hi, I'm Neelaka 👋
+# Hi, I'm Neelaka 👋
  
 I'm a UI/UX designer and front-end developer in Colombo, Sri Lanka. For 5+ years I've taken products from first wireframe all the way to shipped code - myself. No handoff, no "the dev didn't build what I designed" gap. You hire one person and get design and build kept in sync from day one.
  
