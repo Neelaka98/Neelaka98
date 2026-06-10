@@ -8,8 +8,8 @@ I care about accessibility, performance, and writing code the next person can ac
  
 ### What I do
 - **Design** - UI/UX, wireframing, prototyping, and design systems in Figma
-- **Development** — React, Astro, Tailwind CSS, and the fundamentals (HTML, CSS, JavaScript)
-- **The extras** — SEO, responsive design, accessibility (WCAG 2.1), and performance
+- **Development** - React, Astro, Tailwind CSS, and the fundamentals (HTML, CSS, JavaScript)
+- **The extras** - SEO, responsive design, accessibility (WCAG 2.1), and performance
 ### Tech I reach for
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
